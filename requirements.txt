@@ -5,5 +5,4 @@ seaborn>=0.11.0
 plotly>=5.3.0
 scikit-learn>=0.23.1
 jupyter>=1.0.0
-sqlite3
 tqdm>=4.46.0
